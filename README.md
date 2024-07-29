@@ -4,7 +4,7 @@ Saya sedang mengembangkan program sistem pasar. Program ini memungkinkan penggun
 
 ![alt text](https://github.com/AdeYohanaAzekaSiahaan/Merket-sistem/blob/master/Market%20System.png?raw=true)
 
-Program ini dibangun menggunakan NetBeans 8.2, Java version 1.8, dan MySQL mysql-connector-java 5.1.4, dan Semua library yang diperlukan sudah ada di folder lib.ib.
+Program ini dibangun menggunakan NetBeans 8.2, Java version 1.8, dan mysql-connector-java 5.1.4, dan Semua library yang diperlukan sudah ada di folder lib.
 
 Untuk referensi tambahan, berikut beberapa video YouTube membantu saya dan mungkin membantu anda juga:
 1. How to Download and Install JDK, Netbeans 8.2 in Windows, |  https://youtu.be/jM2B18TvK5k?si=Q-Sygf1adpbm0aEA 
