@@ -1,0 +1,202 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jul 14, 2024, 10:57:54 PM
+    Author     : ASUS
+*/
+.bg{
+    -fx-background-color:#f8f9fb;
+}
+
+.top-form{
+    -fx-background-color: #fff;
+    -fx-border-color: #000;  
+    -fx-border-width: .4px .4px .2px .4px;
+    -fx-background-radius: 5px;
+}
+
+.semi-top-form{
+    -fx-background-color: #efefef;
+    -fx-border-color:#000;
+    -fx-border-width: .2px .4px .8px .4px;  
+    -fx-background-radius: 5px;
+}
+
+.nav-form{
+    -fx-background-color: radial-gradient(center 40% 120%, radius 100%, #6cc2ebd2, #ffff);
+}
+
+.nav-bttn{
+    -fx-background-color: transparent;
+    -fx-font-family: "Dubai";
+    -fx-font-size: 14px;
+    -fx-alignment: CENTER_LEFT;
+}
+
+.nav-bttn:hover{
+    -fx-background-color: #eef9fccc;
+    -fx-background-radius: 8px;
+}
+
+.logout-btn{
+    -fx-background-color: transparent;
+    -fx-font-family: "Dubai";
+    -fx-font-size: 14px;
+
+}
+
+.logout-btn:hover{
+    -fx-background-color: #eef9fccc;
+    -fx-background-radius: 8px;
+    -fx-font-size: 14px;
+}
+
+.close{
+    -fx-background-color: transparent;
+    -fx-cursor:hand;
+}
+
+.close:hover{
+    -fx-background-color: E4003A;
+}
+
+.minus{
+    -fx-background-color: transparent;
+    -fx-cursor:hand;
+}
+
+.minus:hover{
+    -fx-background-color: #cfcfcf;
+}
+
+.white-bg{
+    -fx-background-color: #fff;
+    -fx-background-radius: 8px;
+}
+
+.shadow{
+    -fx-effect: dropshadow(three-pass-box, rgba(0,0,0,0.1), 2,0,0,0);
+}
+
+.grisborder{
+    -fx-background-color: #fff;
+    -fx-background-radius: 8px;
+    -fx-border-color:#4B70F5;
+    -fx-border-radius: 8px;
+    -fx-border-width: 2.5px;
+}
+
+.box1{
+    -fx-background-color: linear-gradient(to bottom right, #88dbff, #6a8ecf);
+    -fx-background-radius: 15px;
+}
+
+.box2{
+    -fx-background-color: linear-gradient(to bottom right, #da5586, #ac5aa0);
+    -fx-background-radius: 15px;
+}
+
+.box3{
+    -fx-background-color: linear-gradient(to bottom right, #f4bb4d, #e48460);
+    -fx-background-radius: 15px;
+}
+
+.textfield{
+    -fx-background-color: #EEEEEE;
+    -fx-background-radius: 10px;
+    -fx-font-family: "Dubai";
+    -fx-font-size: 13px;
+}
+
+.delete{
+    -fx-background-color: #fff;
+    -fx-border-color: #DDDDDD;
+    -fx-border-radius: 10px;
+    -fx-cursor:hand;
+}
+
+.delete:hover{
+    -fx-background-color: E4003A;
+    -fx-background-radius: 10px;
+    -fx-border-color: transparent;
+}
+
+.save{
+    -fx-background-color: #6a8ecf;
+    -fx-background-radius: 10px;
+    -fx-border-color: transparent;
+    -fx-cursor:hand;
+}
+
+.save:hover{
+    -fx-background-color: #88dbff;
+    -fx-border-color: transparent;
+}
+
+.update{
+    -fx-background-color: #6a8ecf;
+    -fx-background-radius: 10px;
+    -fx-border-color: transparent;
+    -fx-cursor:hand;
+}
+
+.update:hover{
+    -fx-background-color: #f4bb4d;
+    -fx-border-color: transparent;
+}
+
+.search{
+    -fx-background-color: transparent;
+    -fx-border-color: #aeaeae;
+    -fx-border-width: 1px;
+    -fx-border-radius: 5px;
+    -fx-padding: 0px 0px 0px 28px;
+}
+
+.search:focused{
+    -fx-border-wigth: 3px;
+}
+
+.table-view{
+    -fx-background-color: transparent;
+    -fx-border-color: #aeaeae;
+    -fx-border-width: 2px;
+    -fx-border-radius: 5px;
+    -fx-padding: 0px;
+    
+}
+
+.table-view .table-column{
+    -fx-alignment: CENTER;
+    -fx-border-width: 10px;
+    -fx-border-color: #aeaeae;
+    -fx-border-width: 0 1 1 0;
+    
+    
+}
+
+.table-view .column-header-background{
+    -fx-background-color: transparent;
+    -fx-background-insets: 0 0 0 0;
+    
+}
+
+.table-view .column-header, .filter{
+    -fx-background-color: transparent;
+}
+
+.receiptBttn{
+    -fx-background-color: #fff;
+    -fx-border-color: #DDDDDD;
+    -fx-border-radius: 10px;
+    -fx-cursor:hand;
+}
+
+.receiptBttn:hover{
+    -fx-background-color: #e7e7e7;
+    -fx-background-radius: 10px;
+    -fx-border-color: transparent;
+}

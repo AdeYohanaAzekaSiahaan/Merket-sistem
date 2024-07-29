@@ -1,0 +1,79 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jul 11, 2024, 2:12:23 PM
+    Author     : ASUS
+*/
+
+.createAccount-form{
+     -fx-background-color: linear-gradient(to bottom right, #88dbff, #6a8ecf);
+    
+}
+
+.wrn-white{
+    -fx-text-fill: #fefefe;
+}
+
+.singup-btn{
+    -fx-background-color: #fefefe;
+    -fx-background-radius: 9px;
+    -fx-text-fill: #000000;
+    -fx-font-family: "Dubai";
+    -fx-font-sixe:14px;
+}
+
+.singup-btn:hover{
+    -fx-background-color: transparent;
+    -fx-border-radius: 9px;
+    -fx-text-fill: #fefefe;
+    -fx-border-color: #fefefe;
+    -fx-border-width: 2px;
+    -fx-border-style: solid;
+    -fx-font-sixe:14px;
+}
+
+.textfield{
+    -fx-background-color: linear-gradient(to bottom, #efefef, #eee);
+    -fx-background-radius: 8px;
+    -fx-border-color:#000;
+    -fx-border-width: 0px 0px .8px 0px;
+    -fx-font-family: "Dubai";
+    -fx-font-sixe:13px;
+    -fx-border-radius:8px;
+}
+
+.textfield:focused{
+    -fx-background-color:#efefef;
+    -fx-border-width:0px 0px 1.8px 0px;
+}
+
+
+.login-btn{
+    -fx-background-color: linear-gradient(to bottom right, #88dbff, #6a8ecf);;
+    -fx-background-radius: 9px;
+    -fx-text-fill: #fff;
+    -fx-font-family: "Dubai";
+    -fx-font-sixe:14px;
+}
+
+.login-btn:hover{
+    -fx-background-color: transparent;
+    -fx-border-radius: 9px;
+    -fx-text-fill: #6a8ecf;
+    -fx-border-color: #6a8ecf;
+    -fx-border-width: 2px;
+    -fx-border-style: solid;
+    -fx-font-sixe:14px;
+}
+
+.close{
+    -fx-background-color: transparent;
+    -fx-cursor:hand;
+}
+
+.close:hover{
+    -fx-background-color: E4003A;
+}
