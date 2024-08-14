@@ -1,6 +1,6 @@
 # Overview 🌊
 Hai semua!
-Saya sedang mengembangkan program sistem pasar. Program ini memungkinkan pengguna untuk membuat akun, login, melacak total penjualan hari ini dan keseluruhan, serta melihat data grafik pendapatan. Selain itu, ada fitur manajemen produk yang memungkinkan pengguna menambahkan, memperbarui, dan menghapus produk. Fitur kasir juga tersedia, yang mencakup penambahan produk yang dibeli, total belanjaan, penghapusan semua produk, pembayaran, dan pencetakan struk. Terakhir, ada juga fitur logout.
+Saya sedang mengembangkan program market sistem. Program ini memungkinkan pengguna untuk membuat akun, login, melacak total penjualan hari ini dan keseluruhan, serta melihat data grafik pendapatan. Selain itu, ada fitur manajemen produk yang memungkinkan pengguna menambahkan, memperbarui, dan menghapus produk. Fitur kasir juga tersedia, yang mencakup penambahan produk yang dibeli, total belanjaan, penghapusan semua produk, pembayaran, dan pencetakan struk. Terakhir, ada juga fitur logout.
 
 ![alt text](https://github.com/AdeYohanaAzekaSiahaan/Merket-sistem/blob/master/Market%20System.png?raw=true)
 
